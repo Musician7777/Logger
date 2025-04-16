@@ -1,4 +1,4 @@
 # Logger
 
 ### Disposable Email
-- Musician7777/Logger
+- https://vortex.skyfall.dev/
